@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_my_folder.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_my_folder.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_register_user.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_register_user.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_plant_list.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_plant_list.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/app_bar_user_profile.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/app_bar_user_profile.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/fragment_plant_here_map.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/fragment_plant_here_map.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_single_tree_data.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_single_tree_data.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_my_gallery.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_my_gallery.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/custom_view_tree_rows.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/custom_view_tree_rows.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_upload_my_tree_photo.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_upload_my_tree_photo.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_my_tree_list.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_my_tree_list.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/custom_view_my_tree_rows.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/custom_view_my_tree_rows.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/fragment_spot_all_your_trees.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/fragment_spot_all_your_trees.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_my_single_tree.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_my_single_tree.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/nav_header_user_profile.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/nav_header_user_profile.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_photo_intent.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_photo_intent.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_user_profile.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/content_user_profile.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/content_user_profile.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/custom_view_my_folder.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/custom_view_my_folder.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_spot_your_trees.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_spot_your_trees.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_tree_planted_message.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_tree_planted_message.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_nearest_tree.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_nearest_tree.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/activity_my_tree_photos.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/activity_my_tree_photos.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/content_login.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/layout/content_login.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    }
+]

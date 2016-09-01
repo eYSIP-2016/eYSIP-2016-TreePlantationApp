@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TreePlantation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">mainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_plant_here">plantHere</string>
+    <string name="title_activity_plant_here_map">Map</string>
+    <string name="title_activity_spot_all_your_trees">Map</string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#616163</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">15sp</item>
+
+    </style>
+
+    <string name="title_activity_spot_your_trees">Map</string>
+
+</resources>

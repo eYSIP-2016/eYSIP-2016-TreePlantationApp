@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".UserProfile"
+    tools:showIn="@layout/app_bar_user_profile">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Plant Yourself"
+        android:id="@+id/textView4"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center_horizontal" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="224dp"
+        android:id="@+id/frameLayout2">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Plant"
+            android:id="@+id/plantHereButton"
+            android:layout_gravity="start|top"
+
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Adopt "
+            android:id="@+id/adoptTreeButton"
+            android:layout_gravity="end|top"
+
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Upload photos"
+            android:id="@+id/nearestTreeButton"
+            android:layout_gravity="center_horizontal|top"
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gallery"
+            android:id="@+id/galleryButton"
+            android:layout_gravity="left|center_vertical"
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spot All"
+            android:id="@+id/mapButton"
+            android:layout_gravity="center"
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Let us plant"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/frameLayout">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LetUsPlant"
+            android:id="@+id/listbutton"
+            android:layout_gravity="start|top"
+
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+
+
+        <Button
+            android:text="My Trees"
+            android:id="@+id/myTreesButton"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+        <Button
+            android:text="Spot All"
+            android:id="@+id/spotAllBtn"
+            android:layout_gravity="end|top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:background="@drawable/bluebutton"
+            style="@style/ButtonText"/>
+
+
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/shreyansh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_79abe5bada75555e2297fb64c5fa6c8b45e7129b/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_3ff1d5a85b869c1c7847c98ad01a1c6a82175a6d/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_7cb97defe1eff7abc49d13bd133d1c2f8ff849f8/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_636dd63842bddc6ae26465363ea07f109a1ba38a/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_651c4957f3517f0f74e2a8d9a1400295279abc79/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/libs/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/2/picasso-2.5.2_30235b1423218103f5e32789aac9c8f1ce943fea/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_9c2adc878a157f7015522347bbbbaef7153c01b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_97ec3807321e95bfbaa92344a609f30016cb42ab/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_f02e32f670076e0c40ea9db58806fc8318cd031d/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_fb88da3d9b9a3eff37487b8e0614a6b8b2341d8a/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_ee866fc76330c8da5e371f9a1fb18ca31641ee90/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_26efe6527d8b4886ce56c6c6e67d53df73e38942/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_57c568372b0dd44274f6fa43d7ee761dbb50dca5/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_c8f39ab7a84007d14034b5f5dbfd6f40b1634a11/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_79f0314fa2d83f809ec6ee9cc5b16ef890f47315/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_185a4121910ae8cecdf4c675ddff4a6cb830ff72/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_d176722f3c77546c12a7d8a51a1b13d2c4c51dc8/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_f855d4b007a672951123f497370a68e6318cdf19/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_c9e67e0f71a6eac53c062a57cb277f00b5ec4dd3/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_ecefacddfd725e265006aac65106dd7bbd1ec835/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_710f6e3a1db02eb763db7694ea3eeb82f5e39302/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_aac9b5acc26242bd34b21ef2c8d05244ab7e3fa4/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_d022ce0b9e737ca7201fa42ccd1f069d5f57bcdb/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c598314faa7188633936da0f1d5b550dafaaea7f/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_64a06fb6a827b6b0b3d55a1311199a4cfc357576/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_118e35ffd841e6d07041d1c56e360c981f107154/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_d56bff5dc3ab460193c930256127a8d6d9328c73/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_05ae3f51a137ef62e3d4c5eb28db89046d653c58/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_d040b7c864b30412ba38ad10b3d52025bf120e52/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_1b714172fc86303672d1ff280cefcfc1621e8ad0/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_725c9bf78065dae59a0ce941130300704e53144a/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_06b0ac197af160a9c4e87c89ff1538b8fa458fcf/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8f402fd50dea68d54eebb332563215b830843abe/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_7c105885a64153e7e12a0b594608752c4e962301/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_125ed7219a1ccc132527b560a237e9ebb7e730ff/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_ca5aec659e6c18717f6d35d221c2b1e8199231cc/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_0f85738db10fdbc4af96997357a72904376ace37/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_f6d86545991248ec4242f817b0d115a38fade149/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_4638efba0e439ddbf857f6af5a98a6e20a83555e/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_88692900f173cb871f3efd3fd7d74d5cd1ee10fd/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="02a4ec78d2594aa1363b6dbd80217f3e7ef938ab">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9d58e29501ba69cc6f37742358452a75edc405f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_22b94480cdb5be317c5b637b961e6cfc3ebb5c62/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_54e2b8ab971d83334b0761bcd70a163730e07d30/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_e2b2c7d5aeda4750b39a9215e9f6d914ade104cb/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_a822819d4b63a45b5d4bb3af46f7d097e22c0f68/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_b7a84917c8f560a2f24cc1595dfc617871af1c08/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_27e92dd4602e70736d554a08d79199a59710dd91/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_fa9682eb033acb1484f14bb7e5bc32b68512cb64/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e48f28f08888ac4395d78643a73bee7989a1a3dc">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58a8b12204751860a92bbc073647e143e7ee22f6/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_31db43522ed4be67dfbb09c042c604cb10c8843e/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_ca1f2db77226df1372b3fc86789ff274574599f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_53086f308bc2320065de5b531850300ec9025b9e/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_48e4c3967e0502ca08f0a35cfeb1909569eb1765/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_9787ccd2dace800dc34249356161f54a1a657ea1/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_0bb3c6823431fbe3f8672eb98bca5a48aebee8ae/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_ff3e7fb78a564a2a1923b1c1aa73f649806a1515/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_3b148ee5c2d08d9e37454c39bef1bc95acd5a30b/classes.dex" />
+    </item>
+    <item
+        jar="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_8b43497b41f704ac7dd95f067f7e3ac30e1112ba/classes.dex" />
+    </item>
+
+</items>

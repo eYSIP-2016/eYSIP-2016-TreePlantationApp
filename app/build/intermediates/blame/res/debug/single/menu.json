@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/menu/activity_user_profile_drawer.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/menu/activity_user_profile_drawer.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/menu/activity_screen_slide.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/menu/activity_screen_slide.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/menu/user_profile_appbar_menu.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/menu/user_profile_appbar_menu.xml"
+    },
+    {
+        "merged": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/build/intermediates/res/merged/debug/menu/plant_here_map_menu.xml",
+        "source": "/home/shreyansh/AndroidStudioProjects/TreePlantation/app/src/main/res/menu/plant_here_map_menu.xml"
+    }
+]
