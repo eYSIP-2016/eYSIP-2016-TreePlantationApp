@@ -1,5 +1,8 @@
 <?php 
-
+// plant yourself 
+// called from UploadNearestTree activity to get the trees in the vicinity of approx 2 meters
+// arguments taken - Latitude and longitude
+// results - MyPlantedTrees_Id of plants if they are in a vicinity of 2 meters
  if($_SERVER['REQUEST_METHOD']=='POST'){
 
 	require_once('dbConnect.php'); 

@@ -1,4 +1,8 @@
 <?php
+// PlantByOrg
+// Called in MyTreeList activity to get all the trees planted by the user from JOIN of plantedTrees and
+// Trees on treeId
+
 	if($_SERVER['REQUEST_METHOD']=='GET'){		
 		require_once('dbConnect.php');
 

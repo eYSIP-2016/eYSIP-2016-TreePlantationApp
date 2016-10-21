@@ -1,4 +1,6 @@
 <?php 
+// Called in PlantList activity under plant by organisation to get all the trees available with the 
+//organisation to plant from the table Trees.
 		require_once('dbConnect.php');
 		$sql = "SELECT * FROM Trees";
 		$r = mysqli_query($con,$sql);

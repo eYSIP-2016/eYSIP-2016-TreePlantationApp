@@ -1,4 +1,8 @@
 <?php
+// plant Yourself
+// called from MyGallery
+// parameters - MyPlantedTreeImages_Id
+// returns - directory and number of images corresponding to the id
 if($_SERVER['REQUEST_METHOD']=='POST'){		
 	require_once('dbConnect.php');
 

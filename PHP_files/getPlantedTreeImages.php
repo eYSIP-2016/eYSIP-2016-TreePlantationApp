@@ -1,4 +1,6 @@
 <?php 
+//plantbyorg
+//called in mytreephotos activity to get the url of the images of the plantedTree_id
 
  if($_SERVER['REQUEST_METHOD']=='GET'){
  

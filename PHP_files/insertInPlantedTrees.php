@@ -1,5 +1,7 @@
 <?php
-
+// PlantbyOrg --
+// Called from TreePlantedMessage, parameter are treeId,userId,treeName, latitude and longitude and
+// a new entry is created in the plantedTrees table
 if($_SERVER['REQUEST_METHOD']=='POST'){
 
 	$treeIdString = $_POST['treeId'];

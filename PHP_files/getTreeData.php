@@ -1,4 +1,5 @@
 <?php 
+// Fetch all the data for a tree in plant by organisation, in table Trees with given Trees_Id
 	if($_SERVER['REQUEST_METHOD']=='GET'){
 	
 		$id  = $_GET['id'];	

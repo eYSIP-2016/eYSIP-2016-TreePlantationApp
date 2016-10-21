@@ -3,6 +3,10 @@
 //this is for Plant yourself part
 //this uploads pics to the server for the trees that you planted yourself
 
+		// action 1 used when planting a new and thus creating an entry in myplantedtrees
+		// action 2 is used in uploading a photo of nearest tree
+
+
 	if($_SERVER['REQUEST_METHOD']=='POST'){
 		
 		require_once('dbConnect.php');
@@ -14,7 +18,8 @@
 		$longitude = $_POST['Longitude'] + 0;
 		$actionCode = $_POST['Action'] +0;
 				
-		if($actionCode == 1){
+		if($actionCode == 1){ 
+		// action 1 used when planting a new and thus creating an entry in myplantedtrees
 				$species = $_POST['Species'];
 				$comment = $_POST['Comment'];
 				$onlineDirectory = $_POST['OnlineDirectory'];
@@ -72,6 +77,7 @@
 
 		}
 		if($actionCode==2){
+			//action 2 is used in uploading a photo of nearest tree
 			$Latitude = $_POST['Latitude'];
 			$Longitude = $_POST['Longitude'];
 			$NearestTreeId = $_POST['NearestTreeId'];

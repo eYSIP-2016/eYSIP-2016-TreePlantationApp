@@ -1,5 +1,5 @@
 <?php
-
+// this php file is called from RegisterUser activity to register a user in the users table.
 if($_SERVER['REQUEST_METHOD']=='POST'){
 
 	$username = $_POST['Email'];

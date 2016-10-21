@@ -1,4 +1,6 @@
 <?php 
+// plantbyorg
+// get information about a tree planted by user using the plantedTrees_Id on JOIN of plantedTrees and Trees
 
  if($_SERVER['REQUEST_METHOD']=='GET'){
 

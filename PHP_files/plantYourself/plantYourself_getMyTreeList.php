@@ -1,4 +1,8 @@
 <?php
+// plant by yourself
+// called from MyGallery activity
+// Returns all the tree image directories from MyPlantedTreeImages where userid is given
+
 if($_SERVER['REQUEST_METHOD']=='POST'){		
 	require_once('dbConnect.php');
 

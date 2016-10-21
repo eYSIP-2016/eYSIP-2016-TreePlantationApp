@@ -1,4 +1,6 @@
 <?php 
+//This php file is called by LoginActivity, takes email and password as parameters and returns Id and email
+// if exists in the users table
 
  if($_SERVER['REQUEST_METHOD']=='POST'){
  
