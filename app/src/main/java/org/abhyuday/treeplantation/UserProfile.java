@@ -61,9 +61,12 @@ public class UserProfile extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        //These three buttons for the plant by organisation part
         listbutton = (Button) findViewById(R.id.listbutton);
         myTreesButton = (Button) findViewById(R.id.myTreesButton);
         spotAllBtn = (Button) findViewById(R.id.spotAllBtn);
+
+        //These five buttons for the plant yourself part
         plantHereButton = (Button) findViewById(R.id.plantHereButton);
         adoptTreeButton = (Button) findViewById(R.id.adoptTreeButton);
         nearestTreeButton = (Button) findViewById(R.id.nearestTreeButton);
@@ -100,7 +103,7 @@ public class UserProfile extends AppCompatActivity
         textUsername.setText(email );
         textId.setText(Integer.toString(userId));
 
-
+        // plantbyorg part
         listbutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -125,6 +128,8 @@ public class UserProfile extends AppCompatActivity
             }
         });
 
+
+        //plant yourself
         plantHereButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
